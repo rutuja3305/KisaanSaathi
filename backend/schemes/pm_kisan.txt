@@ -1,0 +1,90 @@
+SCHEME NAME: Pradhan Mantri Kisan Samman Nidhi (PM-KISAN)
+SOURCE: https://pmkisan.gov.in
+LAST VERIFIED: June 2025
+VERSION: 2025-26
+
+---
+
+OBJECTIVE:
+Provide direct income support to farmer families to meet agricultural input costs and household needs.
+
+---
+
+BENEFIT:
+- Rs. 6000 [VERIFY] per year paid directly to farmer's Aadhaar-linked bank account
+- Paid in 3 installments of Rs. 2000 [VERIFY] each
+- Installment schedule: April-July, August-November, December-March
+- Payment via Direct Benefit Transfer (DBT) only
+
+---
+
+ELIGIBILITY:
+- All landholding farmer families with cultivable land registered in their name
+- Applicable to small, marginal, and large landholders
+- Family definition: husband, wife, and minor children below 18 years
+- Land must be in farmer's name OR spouse's name in official land records
+
+---
+
+WHO IS NOT ELIGIBLE:
+- Institutional landholders (trusts, companies)
+- Farmer families where any member paid income tax in last assessment year
+- Former or current holders of constitutional posts
+- Government servants drawing regular salary — except Multi-Tasking Staff, Class IV, Group D employees
+- Retired pensioners with monthly pension above Rs. 10,000 [VERIFY]
+- Professionals: doctors, engineers, lawyers, chartered accountants, architects
+
+---
+
+DOCUMENTS REQUIRED:
+- Aadhaar Card (mandatory)
+- Land record: 7/12 Utara (Satbara) in Maharashtra
+- Bank account passbook (Aadhaar-linked)
+- Active mobile number
+
+---
+
+MAHARASHTRA SPECIFIC:
+- 7/12 Utara (Satbara) is the mandatory land record document
+- Talathi office handles land record verification and corrections
+- Name on 7/12 must exactly match Aadhaar name — mismatch causes rejection
+- Mutation (Ferfar) must be done if land was inherited — untransferred land causes failure
+
+---
+
+HOW TO APPLY:
+- Online: pmkisan.gov.in → Farmer Corner → New Farmer Registration
+- Common Service Centre (CSC)
+- Talathi office in Maharashtra
+- Village Level Entrepreneur (VLE)
+
+---
+
+HOW TO CHECK INSTALLMENT STATUS:
+- pmkisan.gov.in → Farmer Corner → Beneficiary Status → enter Aadhaar or mobile
+- If installment not received in 4+ months: check Aadhaar-bank linkage at bank
+
+---
+
+COMMON REASONS FOR REJECTION OR MISSING INSTALLMENTS:
+- Aadhaar not linked to bank account → visit bank with Aadhaar to link
+- Name mismatch between Aadhaar and 7/12 → correction at Talathi office
+- Land mutation not done after inheritance → update Ferfar at Talathi
+- Duplicate registration → visit CSC with Aadhaar to resolve
+- Bank account inactive or frozen → activate at bank branch
+- Mobile number not registered → update at CSC or bank
+
+---
+
+DISTRESS LINKAGE:
+- Farmers in loan distress must first check all pending PM-KISAN installments
+- Each missed installment = Rs. 2000 unclaimed
+- If missed for 2 years = Rs. 12,000 potentially recoverable
+- Recovering pending installments can offset short-term loan repayment pressure
+
+---
+
+HELPLINE:
+- PM-KISAN Helpline: 155261
+- Alternate: 011-24300606 [VERIFY]
+- Email: pmkisan-ict@gov.in [VERIFY]

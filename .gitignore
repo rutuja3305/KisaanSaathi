@@ -1,0 +1,38 @@
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Python virtual environments and cache
+.venv/
+venv/
+**/venv/
+__pycache__/
+**/__pycache__/
+*.py[cod]
+
+# Node.js dependencies and build output
+node_modules/
+**/node_modules/
+dist/
+**/dist/
+
+# Local vector databases and generated data
+chroma/
+chroma_db/
+vectorstore/
+*.sqlite
+*.sqlite3
+*.db
+
+# Logs and editor files
+*.log
+.DS_Store
+.vscode/
+# Local knowledge database
+backend/knowledge/knowledge.sqlite
+
+# Generated document-processing outputs
+backend/knowledge/ingestion_output/
+backend/knowledge/extraction_output/

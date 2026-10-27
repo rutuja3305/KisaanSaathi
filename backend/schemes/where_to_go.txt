@@ -1,0 +1,165 @@
+SCHEME NAME: Where Farmers Should Go for Each Problem in Maharashtra
+SOURCE: Compiled from Maharashtra government office hierarchy and scheme guidelines
+LAST VERIFIED: June 2025
+VERSION: 2025-26
+
+OBJECTIVE:
+Tell farmers exactly which office to visit for each type of problem, what to carry, and what to expect. Eliminates guesswork and wasted trips.
+
+TALATHI OFFICE (Village Level Revenue Officer):
+Location: Every village or cluster of villages has a Talathi
+What they handle:
+- 7/12 Utara (Satbara) issuance and correction
+- Ferfar (mutation) after land inheritance or purchase
+- Crop failure certificate for loan restructuring
+- Sowing certificate for tenant farmers (PMFBY)
+- Cultivation certificate for Gopinath Munde insurance
+- Land record corrections (name spelling, area, crop details)
+- Village cultivation records and Panchname (spot inspection)
+Bring: Aadhaar, existing 7/12, application written in Marathi or Hindi
+Cost: Nominal stamp duty for some services [VERIFY current rates]
+Timings: Government office hours, Monday to Saturday [VERIFY local timings]
+Response time: 7/12 same day (if records clear), Ferfar 30-90 days, crop certificate 7-15 days
+If Talathi is uncooperative: escalate to Circle Officer (Mantralaya level above Talathi)
+
+TAHSILDAR OFFICE (Taluka Level):
+Location: Taluka headquarters (one per taluka)
+What they handle:
+- Crop failure certificate (official, required for bank restructuring)
+- Drought declaration information for your taluka
+- Income certificate
+- Caste certificate
+- Legal heir certificate
+- Land dispute escalation from Talathi
+- Oversees all Talathi offices in the taluka
+Bring: 7/12 Utara, Aadhaar, crop sowing proof, application
+Response time: Crop failure certificate 15-30 days [VERIFY]
+
+DISTRICT AGRICULTURE OFFICE (DAO):
+Location: District headquarters
+What they handle:
+- PM-KISAN registration problems (name mismatch, rejection, status issues)
+- Namo Shetkari registration escalation
+- PMFBY grievances and claim delays
+- Gopinath Munde insurance claim escalation
+- New scheme information and enrollment drives
+- KCC awareness and referral to banks
+- Farmer training programs
+- Seed and fertilizer subsidy schemes
+Bring: All relevant scheme documents, previous correspondence, Aadhaar
+Who to meet: District Agriculture Officer (DAO) or Scheme-specific desk officer
+Response time: Varies — follow up in writing for faster resolution
+
+KRISHI VIGYAN KENDRA (KVK):
+Location: One per district approximately
+What they handle:
+- Crop advisory and pest management (not financial schemes)
+- Soil testing
+- Seed quality information
+- Farming technology and best practices
+- Training farmers on new crop varieties
+Useful for: Cotton bollworm issue, soil health card program
+
+COMMON SERVICE CENTRE (CSC / Jan Seva Kendra):
+Location: Every Gram Panchayat or nearby village [VERIFY coverage in your area]
+What they handle:
+- PM-KISAN new registration and correction
+- Namo Shetkari registration
+- Aadhaar update and correction
+- DigiLocker document storage
+- Government scheme applications online
+- Document scanning and printing
+Cost: Nominal service charges (Rs. 20-100 per service) [VERIFY]
+Important: CSC operator helps submit application — farmer must verify details before submission
+
+BANK BRANCH (Nearest branch where KCC is held):
+What they handle:
+- KCC application and renewal
+- KCC limit enhancement request
+- PMFBY enrollment (for loanee farmers)
+- Loan restructuring application submission
+- Aadhaar-bank account linking
+- PM-KISAN and Namo Shetkari DBT bank details update
+Bring for KCC: 7/12, Aadhaar, photographs, No Dues Certificate
+Bring for restructuring: Crop failure certificate, KCC statement, Aadhaar
+Important tip: Always take written acknowledgment for any application submitted at bank
+
+DISTRICT CENTRAL COOPERATIVE BANK (DCCB):
+Location: District and taluka level
+Specific role in Maharashtra:
+- Primary KCC issuer for farmers in rural areas
+- More farmer-friendly than nationalized banks for rural credit
+- Works with Primary Agricultural Credit Societies (PACS) at village level
+
+PRIMARY AGRICULTURAL CREDIT SOCIETY (PACS):
+Location: Village level
+What they handle:
+- Short-term crop loan (alternative to commercial bank KCC)
+- Seed and fertilizer distribution on credit
+- Onward referral for government schemes
+Useful for: Small farmers who cannot access nationalized banks easily
+
+APMC (AGRICULTURAL PRODUCE MARKET COMMITTEE):
+Location: Major market towns in each district
+What they handle:
+- Sale of produce at open auction
+- MSP procurement window when activated
+- Market price information daily
+- Grading and quality assessment
+- Farmer registration for MSP procurement
+Bring for MSP sale: Aadhaar, bank passbook, 7/12, crop quantity
+
+DISTRICT SUPPLY OFFICE (DSO):
+Location: District headquarters
+What they handle:
+- Below-MSP selling complaints
+- Activation of price support when needed
+- CCI and NAFED procurement coordination
+
+COLLECTOR OFFICE (DISTRICT COLLECTORATE):
+Location: District headquarters
+What they handle:
+- Drought declaration and relief coordination
+- Escalation when all other offices fail to respond
+- Ex-gratia for farmer distress deaths
+- MNREGA work allocation escalation
+- Final authority for district-level relief
+When to approach: When DAO, Tahsildar, and bank all fail to respond within reasonable time
+How to approach: Written application addressed to District Collector
+Response time: Should acknowledge within 7 days [VERIFY]
+
+BANKING OMBUDSMAN:
+Location: Regional offices in Mumbai, Pune, Nagpur, Aurangabad [VERIFY current offices]
+Online: cms.rbi.org.in
+What they handle:
+- Bank refusing loan restructuring without valid reason
+- Bank not responding to farmer's restructuring application within 30 days
+- Unfair interest charges during moratorium
+- KCC-related bank disputes
+Cost: Free
+How to use: File online complaint with all correspondence history
+Response time: 30 days [VERIFY]
+
+INSURANCE COMPANY DISTRICT OFFICE:
+What they handle:
+- PMFBY claim follow-up and escalation
+- Claim rejection disputes
+- Premium correction issues
+Find contact: pmfby.gov.in → Contact → Insurance company list for your district
+
+QUICK REFERENCE — PROBLEM TO OFFICE:
+7/12 correction or issuance → Talathi
+Crop failure certificate → Tahsildar
+PM-KISAN not received → CSC first, then DAO
+Namo Shetkari not received → DAO
+PMFBY enrollment → Bank branch or CSC
+PMFBY claim delayed → Insurance company district office, then DAO
+KCC application → Bank branch
+KCC restructuring → Bank branch with crop failure certificate
+Bank refusing restructuring → Banking Ombudsman (cms.rbi.org.in)
+MSP procurement → APMC or District Supply Office
+Drought compensation → Talathi (verify records) → Tahsildar
+Gopinath Munde claim → Talathi → DAO
+Land dispute → Talathi → Circle Officer → Tahsildar
+Below-MSP complaint → District Supply Office → Collector
+All else fails → District Collector written complaint

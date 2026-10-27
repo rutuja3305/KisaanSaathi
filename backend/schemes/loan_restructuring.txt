@@ -1,0 +1,90 @@
+SCHEME NAME: Crop Loan Restructuring and KCC Distress Relief Guidelines
+SOURCE: https://rbi.org.in (RBI Master Circular on Relief Measures for Crop Loan)
+LAST VERIFIED: June 2025
+VERSION: 2025 RBI Guidelines
+
+OBJECTIVE:
+When farmers face crop failure or natural calamity, RBI guidelines mandate banks to restructure crop loans and provide relief rather than declaring accounts NPA immediately.
+
+WHEN IS RESTRUCTURING TRIGGERED:
+- Crop loss of 33% or more due to natural calamity in the district [VERIFY threshold]
+- District or state government declares drought, flood, or crop failure
+- Individual farmer can also apply even without official declaration if crop failure is documented
+- Bank must consider restructuring if farmer submits crop failure certificate from Tahsildar
+
+KEY RELIEF MEASURES (RBI mandated):
+- Repayment period extended by 2 years beyond original due date [VERIFY current RBI circular]
+- Interest subvention continues during restructuring period
+- No penalty interest on restructured amount
+- Account NOT classified as NPA during restructuring period
+- Fresh working capital loan can be sanctioned for next season even during restructuring
+
+MORATORIUM RULES:
+- When district declared drought: automatic 1-year moratorium on crop loan repayment [VERIFY]
+- During moratorium: no interest penalty, account status unchanged
+- After moratorium: repayment schedule redrawn based on farmer's capacity
+- Farmer must formally apply for moratorium at bank with crop failure certificate
+
+STEP BY STEP PROCESS FOR FARMER IN DISTRESS:
+
+Step 1: Get Crop Failure Certificate
+- Visit Tahsildar office in your taluka
+- Submit application with: 7/12 Utara, Aadhaar, crop sowing proof
+- Tahsildar conducts field inspection
+- Certificate issued within 15-30 days [VERIFY current processing time]
+- This certificate is your most important document for all relief measures
+
+Step 2: Approach Bank Immediately
+- Go to your bank branch with: crop failure certificate, KCC account details, Aadhaar
+- Submit written application for loan restructuring/moratorium
+- Bank must acknowledge receipt in writing
+- Ask for written acknowledgment with date stamp
+
+Step 3: Follow Up
+- Banks are mandated by RBI to respond to restructuring requests within 30 days [VERIFY]
+- If bank does not respond: escalate to Bank's Grievance Officer
+- Further escalation: Banking Ombudsman (free, available in every district)
+- RBI Banking Ombudsman: cms.rbi.org.in [VERIFY current portal]
+
+MAHARASHTRA SPECIFIC LOAN WAIVER HISTORY:
+[VERIFY current status — waivers are politically driven and change]
+- Chhatrapati Shivaji Maharaj Shetkari Sanman Yojana 2017: waived up to Rs. 1,50,000 [VERIFY]
+- Maharashtra loan waiver 2019 under MVA government [VERIFY amounts]
+- Current status of waiver schemes: [VERIFY with District Agriculture Office — do not assume active]
+
+ELIGIBILITY FOR LOAN WAIVER (when active):
+- Must have active KCC at time of waiver announcement
+- Defaulted accounts often excluded — early action critical
+- Small and marginal farmers (less than 2 hectares) typically given priority
+- Proof required: 7/12 Utara, KCC account statement, Aadhaar
+
+JOINT LIABILITY GROUP RESTRUCTURING:
+- If JLG member defaults: group collectively responsible
+- Other group members should approach bank together for group restructuring
+- JLG restructuring: same RBI guidelines apply as individual
+
+COOPERATIVE BANK SPECIFIC:
+- District Central Cooperative Banks (DCCBs) in Maharashtra follow state cooperative department rules
+- May have different restructuring timelines: check with specific DCCB
+- Maharashtra State Cooperative Bank provides refinance during drought declarations
+
+BANKING OMBUDSMAN ESCALATION:
+- Use when bank refuses restructuring without valid reason
+- File complaint: cms.rbi.org.in (free online)
+- Or visit Banking Ombudsman office in your region
+- Maharashtra regions: Mumbai, Pune, Nagpur, Aurangabad [VERIFY current offices]
+- Response time: 30 days [VERIFY]
+
+CRITICAL TIMING RULE:
+- Must approach bank BEFORE account becomes NPA (90 days overdue)
+- After NPA: restructuring still possible but much harder and longer process
+- After NPA: farmer loses eligibility for most waiver schemes
+- Time is critical: do not wait for harvest season to pass before acting
+
+DISTRESS LINKAGE:
+- Restructured loan + PM-KISAN + Namo Shetkari + drought compensation together can bridge farmer through one bad season
+- Goal: survive one bad season without permanent credit damage
+- Next season: ensure PMFBY enrollment to prevent repeat situation
+
+HELPLINE: 1800-180-1551 (Kisan Call Centre) [VERIFY]
+RBI PORTAL: cms.rbi.org.in (Banking Ombudsman)

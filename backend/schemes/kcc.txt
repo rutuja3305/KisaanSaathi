@@ -1,0 +1,120 @@
+SCHEME NAME: Kisan Credit Card (KCC)
+SOURCE: https://nabard.org and https://rbi.org.in
+LAST VERIFIED: June 2025
+VERSION: 2025-26
+
+---
+
+OBJECTIVE:
+Provide short-term and allied activity credit to farmers at subsidized interest rates through a revolving credit facility.
+
+---
+
+BENEFIT:
+- Revolving credit limit based on land holding and crop type
+- Interest rate: 7% per annum base rate [VERIFY]
+- With timely repayment: additional 3% interest subvention from Government
+- Effective interest rate with subvention: 4% per annum [VERIFY]
+- Personal accident insurance: Rs. 50,000 [VERIFY] included with KCC
+- Covers: crop cultivation, post-harvest expenses, allied activities, household needs
+
+---
+
+CREDIT LIMIT CALCULATION:
+- Based on Scale of Finance (SOF) x area + post-harvest expenses
+- Small farmers (less than 1 hectare): Rs. 50,000 to Rs. 1,50,000 [VERIFY]
+- Medium farmers (1 to 2 hectares): Rs. 1,50,000 to Rs. 3,00,000 [VERIFY]
+- Large farmers (above 2 hectares): Above Rs. 3,00,000 [VERIFY] depending on crop and district SOF
+- Limit reviewed and enhanced every year automatically
+
+---
+
+ELIGIBILITY:
+- Individual farmers owning cultivable land
+- Tenant farmers and oral lessees with valid agreement
+- Sharecroppers
+- Self-Help Groups (SHGs) of farmers
+- Joint Liability Groups (JLGs) — group of 4-10 farmers, no individual land ownership required
+
+---
+
+DOCUMENTS REQUIRED:
+- Application form from bank
+- Identity proof: Aadhaar Card preferred
+- Address proof
+- Land records: 7/12 Utara in Maharashtra
+- Passport size photographs (2)
+- No Objection Certificate or No Dues Certificate if applicable
+
+---
+
+REPAYMENT TERMS:
+- Short-term crop loan: repay within 12 months (one crop cycle)
+- Repayment expected after harvest season
+- Failure to repay on time: loses 3% subvention, rate becomes 7%
+- Extended non-repayment: account classified as NPA (Non-Performing Asset)
+
+---
+
+NPA CONSEQUENCES — CRITICAL:
+- NPA classification: damages credit score permanently
+- Future loan applications rejected across all banks
+- Bank can initiate legal proceedings to attach land as security
+- SARFAESI Act applicable for larger loan amounts
+- Farmer must NEVER let KCC become NPA without first exploring restructuring options
+
+---
+
+LOAN RESTRUCTURING WHEN FARMER IS IN DISTRESS:
+- If crop failure declared in district: bank must restructure KCC per RBI guidelines
+- Repayment period extended by up to 2 years [VERIFY]
+- Interest subvention continues during restructuring period
+- Farmer must approach bank proactively with crop failure certificate from Tahsildar
+- Do not wait for bank to contact you — approach bank first
+
+---
+
+KCC AND PMFBY LINKAGE:
+- KCC for notified crops triggers automatic PMFBY enrollment
+- Farmer can opt out of PMFBY but must sign written declaration
+- Banks must inform farmer about PMFBY at KCC issuance — many do not
+- If opted out unknowingly: approach bank to reinstate before enrollment deadline
+
+---
+
+MAHARASHTRA SPECIFIC:
+- District Central Cooperative Banks (DCCBs) are primary KCC issuers in rural Maharashtra
+- Bank of Maharashtra, SBI, Bank of India also active in rural Maharashtra
+- Drought-declared districts: automatic moratorium on KCC repayment [VERIFY with current drought declarations]
+- Maharashtra state government provides additional interest subvention on top of central scheme [VERIFY current rate]
+
+---
+
+JOINT LIABILITY GROUP (JLG) FOR TENANT FARMERS:
+- 4 to 10 farmers form a group
+- No individual land ownership required
+- Group collectively responsible for repayment
+- KCC up to Rs. 1,60,000 [VERIFY] per member without collateral
+- Approach bank with group together — bank forms JLG officially
+
+---
+
+LOAN WAIVER HISTORY MAHARASHTRA:
+- Chhatrapati Shivaji Maharaj Shetkari Sanman Yojana 2017: waived loans up to Rs. 1.5 lakh [VERIFY]
+- Eligibility for any future waiver: must have active KCC at time of announcement
+- Farmers with already-defaulted accounts often miss waivers
+- Early restructuring protects waiver eligibility — act before NPA classification
+
+---
+
+DISTRESS LINKAGE:
+- KCC at 4% vs informal moneylender at 24-36% — massive cost difference
+- Farmer taking informal loan to repay KCC is in dangerous debt cycle
+- First action for any distressed farmer: approach bank for KCC restructuring
+- Do not take new informal loan to repay KCC
+
+---
+
+HELPLINE:
+- NABARD Helpline: 1800-200-0101 [VERIFY]
+- Kisan Call Centre: 1800-180-1551

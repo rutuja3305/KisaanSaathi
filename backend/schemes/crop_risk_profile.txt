@@ -1,0 +1,143 @@
+SCHEME NAME: Maharashtra Crop-wise Risk and Scheme Profile
+SOURCE: Compiled from agricoop.nic.in, dfpd.gov.in, Maharashtra Agriculture Department
+LAST VERIFIED: June 2025
+VERSION: Kharif 2025 / Rabi 2025-26
+
+OBJECTIVE:
+Define risk profile, typical input costs, relevant schemes, and distress indicators for each major crop grown in Maharashtra.
+
+KHARIF CROPS:
+
+COTTON:
+Growing regions: Vidarbha (Yavatmal, Washim, Akola, Amravati), Marathwada (Beed, Hingoli, Nanded)
+Season: June sowing, October-February harvesting (long duration crop)
+Input cost per acre: Rs. 35,000 to Rs. 55,000 [VERIFY 2025 prices]
+MSP 2025-26: Medium staple Rs. 7,121 per quintal / Long staple Rs. 7,521 per quintal [VERIFY]
+Risk level: VERY HIGH
+Risk factors:
+- Pink bollworm resistance: increases pesticide cost by Rs. 5,000-10,000 per acre
+- Price volatile: open market price can fall below MSP
+- Late or irregular monsoon: direct yield impact
+- High input credit requirement: farmers often exceed KCC limit
+Relevant schemes: PMFBY (compulsory for notified areas), KCC, PM-KISAN, Namo Shetkari
+PMFBY enrollment deadline Kharif 2025: July 31, 2025 [VERIFY]
+Distress indicator: Cotton farmer with more than Rs. 1,50,000 KCC + no PMFBY = CRITICAL risk
+
+SOYBEAN:
+Growing regions: Marathwada (Latur, Osmanabad, Aurangabad), Vidarbha (Amravati, Yavatmal)
+Season: June-July sowing, October-November harvesting
+Input cost per acre: Rs. 15,000 to Rs. 22,000 [VERIFY]
+MSP 2025-26: Rs. 4,892 per quintal [VERIFY]
+Risk level: HIGH
+Risk factors:
+- Entirely rain-dependent: late monsoon causes major loss
+- Yellow mosaic virus: common disease risk
+- Price fluctuation: often sells below MSP in good harvest years
+Relevant schemes: PMFBY, KCC, PM-KISAN
+PMFBY coverage: available in most Marathwada and Vidarbha districts
+
+TUR (ARHAR / PIGEON PEA):
+Growing regions: Marathwada, Vidarbha, parts of North Maharashtra
+Season: June sowing, January-February harvesting (extra-long duration)
+Input cost per acre: Rs. 12,000 to Rs. 18,000 [VERIFY]
+MSP 2025-26: Rs. 7,550 per quintal [VERIFY]
+Risk level: MEDIUM-HIGH
+Risk factors:
+- Long crop period: exposed to multiple weather events
+- Wilt disease: common in Marathwada
+- Government procurement below MSP in many districts historically
+Relevant schemes: PMFBY, KCC, PM-KISAN
+
+PADDY (RICE):
+Growing regions: Konkan (Raigad, Ratnagiri), Vidarbha (Gondia, Bhandara, Nagpur), Western Maharashtra
+Season: June-July transplanting, October-November harvest
+Input cost per acre: Rs. 18,000 to Rs. 28,000 [VERIFY]
+MSP 2025-26: Common grade Rs. 2,300 per quintal / Grade A Rs. 2,320 per quintal [VERIFY]
+Risk level: MEDIUM
+Risk factors:
+- Waterlogging in heavy rain years (Konkan)
+- Blast disease: common fungal risk
+- Price: MSP procurement available through FCI
+Relevant schemes: PMFBY, KCC, PM-KISAN
+
+MAIZE:
+Growing regions: Nashik, Ahmednagar, parts of Marathwada
+Season: June-July sowing, September-October harvest
+Input cost per acre: Rs. 12,000 to Rs. 18,000 [VERIFY]
+MSP 2025-26: Rs. 2,225 per quintal [VERIFY]
+Risk level: MEDIUM
+Relevant schemes: PMFBY where notified, KCC, PM-KISAN
+
+ONION (KHARIF):
+Growing regions: Nashik, Ahmednagar, Solapur
+Season: Kharif (July-October), late Kharif (September-December)
+Input cost per acre: Rs. 20,000 to Rs. 35,000 [VERIFY]
+Price risk: EXTREME — prices crash from Rs. 20/kg to Rs. 1-2/kg in good harvest years
+Risk level: HIGH (price risk dominant over weather risk)
+Relevant schemes: PMFBY (limited coverage for onion), KCC
+Special note: PMFBY coverage for onion is limited and must be verified district-wise [VERIFY]
+
+RABI CROPS:
+
+WHEAT:
+Growing regions: Nashik, Pune, Ahmednagar (limited area in Maharashtra)
+Season: November sowing, March-April harvest
+Input cost per acre: Rs. 12,000 to Rs. 18,000 [VERIFY]
+MSP 2025-26: Rs. 2,425 per quintal [VERIFY]
+Risk level: LOW-MEDIUM
+Relevant schemes: PMFBY Rabi, KCC, PM-KISAN
+PMFBY enrollment deadline Rabi 2025-26: December 31, 2025 [VERIFY]
+
+GRAM (CHANA / CHICKPEA):
+Growing regions: Marathwada, Vidarbha (Rabi season)
+Season: October-November sowing, February-March harvest
+Input cost per acre: Rs. 10,000 to Rs. 15,000 [VERIFY]
+MSP 2025-26: Rs. 5,650 per quintal [VERIFY]
+Risk level: MEDIUM
+Risk factors: Frost risk in December-January, wilt disease
+Relevant schemes: PMFBY Rabi, KCC
+
+RABI JOWAR (SORGHUM):
+Growing regions: Solapur, Osmanabad, Latur
+Season: October sowing, February-March harvest
+Input cost per acre: Rs. 8,000 to Rs. 12,000 [VERIFY]
+MSP 2025-26: Rs. 3,421 per quintal [VERIFY]
+Risk level: MEDIUM
+Relevant schemes: PMFBY Rabi where notified, KCC
+
+HORTICULTURE CROPS:
+
+GRAPES:
+Growing regions: Nashik, Sangli, Solapur, Pune (Baramati)
+Input cost per acre: Rs. 1,00,000 to Rs. 2,00,000 per year [VERIFY — very high]
+Risk level: HIGH (but also high returns)
+Risk factors: Hailstorm, unseasonal rain, downy mildew disease
+PMFBY: available under horticulture category at 5% premium [VERIFY]
+
+ORANGE (NAGPUR MANDARIN):
+Growing region: Nagpur, Amravati, Wardha
+Input cost per acre: Rs. 40,000 to Rs. 60,000 per year [VERIFY]
+Risk level: MEDIUM-HIGH
+Risk factors: Unseasonal rain during flowering, citrus canker
+PMFBY: available where notified [VERIFY]
+
+BANANA:
+Growing regions: Jalgaon (largest in India), Solapur, Pune
+Input cost per acre: Rs. 80,000 to Rs. 1,20,000 per year [VERIFY]
+Risk level: MEDIUM
+Risk factors: Cyclone, Panama wilt disease
+PMFBY: available where notified [VERIFY]
+
+SUGARCANE:
+Growing regions: Kolhapur, Sangli, Satara, Solapur, Pune, Ahmednagar
+Season: 12-18 months crop
+Input cost per acre: Rs. 50,000 to Rs. 80,000 [VERIFY]
+Risk level: LOW-MEDIUM (cooperative mills provide price stability)
+Relevant schemes: KCC (higher limit for long-duration crop), PM-KISAN
+Note: Sugarcane farmers generally have better financial stability due to cooperative system
+
+RISK MATRIX SUMMARY:
+CRITICAL risk crops in Maharashtra 2025: Cotton (Vidarbha/Marathwada)
+HIGH risk crops: Soybean, Onion, Tur, Grapes
+MEDIUM risk crops: Paddy, Maize, Gram, Rabi Jowar, Orange, Banana
+LOWER risk crops: Wheat, Sugarcane (irrigated)

@@ -1,0 +1,155 @@
+SCHEME NAME: Farmer Distress Scenarios and Action Plans
+SOURCE: Compiled from PM-KISAN, PMFBY, KCC, Maharashtra scheme guidelines
+LAST VERIFIED: June 2025
+VERSION: Kharif 2025 and Rabi 2025-26
+
+---
+
+SCENARIO 1: CROP FAILURE + KCC LOAN + NO PMFBY INSURANCE
+Risk Level: CRITICAL
+Profile: Farmer took KCC loan, crop failed this Kharif season, was not enrolled in PMFBY.
+
+Why critical:
+- No insurance means no claim to repay loan
+- KCC repayment due after harvest but no harvest income
+- Account risks becoming NPA within 3-6 months
+
+Immediate actions (do in this order):
+1. Do NOT ignore bank notices — approach bank branch immediately this week
+2. Apply for KCC restructuring — bring crop failure certificate from Tahsildar office
+3. Check if district is drought-declared — if yes, automatic moratorium may apply
+4. Apply for Maharashtra drought input subsidy (Rs. 13,500 per hectare for rainfed crops) [VERIFY]
+5. Check all pending PM-KISAN and Namo Shetkari installments — recover any unpaid amounts at CSC
+6. For next season: enroll in PMFBY before Rabi deadline (31 December 2025) [VERIFY]
+
+Documents to collect urgently:
+- Crop failure certificate from Tahsildar office
+- 7/12 Utara showing crop sown this season
+- KCC loan account statement from bank
+- Aadhaar and bank passbook
+
+---
+
+SCENARIO 2: CROP FAILURE + KCC LOAN + PMFBY ENROLLED
+Risk Level: HIGH but manageable
+Profile: Farmer has crop insurance but may not have filed claim correctly.
+
+Why high but manageable:
+- Insurance should cover loss but only if claim filed correctly within 72 hours
+- Delay in reporting voids the claim entirely
+
+Immediate actions:
+1. Report crop loss within 72 hours via Crop Insurance App or call insurer — get acknowledgment number
+2. Inform bank branch about crop failure and that insurance claim has been filed
+3. Obtain crop failure certificate from Tahsildar as supporting document
+4. Track claim status on pmfby.gov.in using policy number
+5. If claim delayed beyond 60 days after harvest: escalate to District Agriculture Officer
+6. Ensure bank does NOT mark account NPA while claim is pending — inform bank in writing
+
+Critical timeline:
+- 72 hours: Report crop loss (non-negotiable)
+- 30 days: Submit all documents to insurance company
+- 60 days after harvest: Expect claim settlement [VERIFY]
+
+---
+
+SCENARIO 3: FARMER HAS NO KCC, USING INFORMAL LOANS
+Risk Level: HIGH
+Profile: Small farmer using moneylender loans at high interest rates, not in formal credit system.
+
+Why high risk:
+- Informal loans at 24-36% vs KCC at 4% = debt trap
+- No insurance means single crop failure causes multi-year debt
+
+Immediate actions:
+1. Apply for KCC at nearest bank or cooperative bank — even 0.5 hectare is eligible
+2. Form or join a Joint Liability Group (JLG) if land ownership is an issue — 4-10 farmers together
+3. Register for PM-KISAN immediately if not done — Rs. 6,000 per year income support
+4. Register for Namo Shetkari — additional Rs. 6,000 per year from Maharashtra
+5. Enroll in PMFBY as non-loanee farmer before next season deadline
+6. Apply for Gopinath Munde accident insurance — completely free coverage
+
+Key numbers:
+- KCC at 4% on Rs. 1,00,000 = Rs. 4,000 interest per year
+- Informal loan at 30% on Rs. 1,00,000 = Rs. 30,000 interest per year
+- Difference = Rs. 26,000 saved per year by switching to KCC
+
+---
+
+SCENARIO 4: PM-KISAN NOT RECEIVED FOR SEVERAL MONTHS
+Risk Level: MEDIUM
+Profile: Farmer is eligible but has not received PM-KISAN installments due to registration errors.
+
+Common causes and fixes:
+- Aadhaar not linked to bank account → visit bank with Aadhaar card to link
+- Name mismatch between Aadhaar and 7/12 → correction at Talathi office (takes 7-15 days)
+- Land not mutated after father's death → update Ferfar at Talathi (takes 1-3 months)
+- Duplicate registration → visit CSC with Aadhaar to resolve
+- Bank account closed or frozen → activate or change account at bank
+
+Steps to resolve:
+1. Check status at pmkisan.gov.in → Beneficiary Status with Aadhaar number
+2. Note the rejection reason shown on portal
+3. Visit CSC with Aadhaar + 7/12 + bank passbook for correction
+4. Talathi for land record corrections
+5. District Agriculture Office if unresolved after 30 days
+
+Potential recoverable amount:
+- If missed 2 years PM-KISAN: Rs. 12,000 pending
+- Including Namo Shetkari: Rs. 24,000 potentially recoverable [VERIFY]
+
+---
+
+SCENARIO 5: COTTON FARMER IN VIDARBHA OR MARATHWADA
+Risk Level: VERY HIGH
+Profile: Cotton farmers in Yavatmal, Amravati, Wardha, Nanded, Beed face compounded risks.
+
+Why very high risk:
+- Cotton input cost: Rs. 30,000-50,000 per acre [VERIFY] — seed, fertilizer, pesticide
+- Cotton price volatile — MSP may not match market price
+- Bt cotton pest resistance increasing — higher pesticide costs each year
+- Region historically drought-prone — crop failure common
+
+Specific checks for cotton farmers:
+1. Verify cotton is notified under PMFBY in your district for Kharif 2025 — check pmfby.gov.in
+2. Verify PMFBY enrollment at bank before Kharif deadline (31 July 2025) [VERIFY]
+3. Check KCC limit is sufficient for actual input cost — request enhancement if needed
+4. Register for PM-KISAN and Namo Shetkari if not done
+5. Check Gopinath Munde accident insurance is active — free coverage
+6. Check solar pump scheme eligibility to reduce diesel irrigation cost
+
+MSP for Cotton 2025-26: [VERIFY at dfpd.gov.in before season]
+- Medium staple cotton (F-414): Rs. 7,121+ per quintal [VERIFY]
+- Long staple cotton (V-797): Rs. 7,521+ per quintal [VERIFY]
+- Sell at or above MSP — report below-MSP offers to District Supply Office
+
+---
+
+SCENARIO 6: TENANT FARMER OR SHARECROPPER
+Risk Level: HIGH
+Profile: Farmer cultivates land they do not own — limited access to formal schemes.
+
+Scheme eligibility summary:
+- PM-KISAN: NOT eligible (requires land ownership in farmer's name)
+- KCC: ELIGIBLE with tenant agreement or oral lessee declaration
+- PMFBY: ELIGIBLE with sowing certificate from Talathi and cultivator proof
+- Gopinath Munde insurance: ELIGIBLE
+- Namo Shetkari: NOT eligible without land ownership
+
+Action plan for tenant farmer:
+1. Get written tenancy agreement from landowner if possible
+2. Form or join JLG (Joint Liability Group) — enables KCC without individual land ownership
+3. Enroll in PMFBY as non-loanee farmer with sowing certificate from Talathi
+4. Register for Gopinath Munde insurance through Talathi — completely free
+5. Approach agriculture extension officer for additional state scheme guidance
+
+---
+
+GENERAL DISTRESS WARNING SIGNS — SYSTEM SHOULD FLAG THESE:
+- PM-KISAN not received in more than 4 months → registration or linkage problem
+- Farmer has KCC but does not know if PMFBY is active → verify immediately with bank
+- Crop failed but insurance company not informed within 72 hours → claim at risk
+- Farmer repaying KCC using informal moneylender loan → dangerous debt cycle
+- KCC not renewed in 3+ years → account may be dormant or NPA
+- Farmer unaware of Namo Shetkari → potential Rs. 12,000/year unclaimed [VERIFY]
+- Farmer in Vidarbha or Marathwada with cotton crop and no insurance → CRITICAL flag

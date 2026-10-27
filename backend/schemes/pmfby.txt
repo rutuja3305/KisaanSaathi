@@ -1,0 +1,121 @@
+SCHEME NAME: Pradhan Mantri Fasal Bima Yojana (PMFBY)
+SOURCE: https://pmfby.gov.in
+LAST VERIFIED: June 2025
+VERSION: Kharif 2025 and Rabi 2025-26
+
+---
+
+OBJECTIVE:
+Provide financial protection to farmers against crop loss due to natural calamities, pests, and diseases.
+
+---
+
+BENEFIT:
+- Full crop value insured based on Scale of Finance (SOF) per hectare
+- Government pays majority of premium — farmer pays only a small share
+- Claim paid directly to bank account after harvest assessment
+
+---
+
+FARMER PREMIUM RATES:
+- Kharif crops (Soybean, Cotton, Tur, Maize, Paddy): Maximum 2% of sum insured [VERIFY]
+- Rabi crops (Wheat, Gram, Jowar, Safflower): Maximum 1.5% of sum insured [VERIFY]
+- Horticulture and annual commercial crops: Maximum 5% of sum insured [VERIFY]
+- Remaining premium shared equally by Central and State Government
+
+---
+
+ENROLLMENT DEADLINES:
+- Kharif 2025: 31st July 2025 [VERIFY — check pmfby.gov.in for exact date]
+- Rabi 2025-26: 31st December 2025 [VERIFY — check pmfby.gov.in for exact date]
+- MISSING DEADLINE = NO COVERAGE FOR THAT SEASON — no exceptions
+
+---
+
+LOANEE FARMERS (those with KCC or crop loan):
+- PMFBY enrollment is automatic at time of KCC loan disbursement
+- Farmer can opt out but must sign written declaration
+- Many farmers opt out unknowingly or are opted out by bank staff — VERIFY YOUR ENROLLMENT
+- To check: visit your bank branch and ask for PMFBY enrollment confirmation
+
+---
+
+NON-LOANEE FARMERS (no crop loan):
+- Enrollment is voluntary — must proactively register before deadline
+- Register at: CSC, bank branch, insurance company agent, pmfby.gov.in
+- Non-loanee farmers most commonly miss enrollment — highest risk group
+
+---
+
+CROPS COVERED IN MAHARASHTRA — KHARIF 2025:
+- Soybean, Cotton, Tur (Arhar), Moong, Udid, Maize, Jowar, Bajra, Paddy
+- [VERIFY district-wise notified crops at pmfby.gov.in — changes every season]
+
+---
+
+CROPS COVERED IN MAHARASHTRA — RABI 2025-26:
+- Wheat, Gram (Chana), Rabi Jowar, Safflower, Groundnut (Rabi)
+- [VERIFY district-wise notified crops at pmfby.gov.in — changes every season]
+
+---
+
+RISKS COVERED:
+- Prevented sowing due to deficit rainfall or adverse weather
+- Standing crop loss due to drought, flood, hailstorm, cyclone, pest, disease
+- Post-harvest losses up to 14 days after harvest due to hailstorm, cyclone, unseasonal rain
+- Localized calamities: hailstorm, landslide, inundation affecting individual farms
+
+---
+
+RISKS NOT COVERED:
+- War, nuclear risk
+- Malicious damage by farmer
+- Theft or negligence
+- Losses due to birds and wild animals (unless specifically notified)
+
+---
+
+HOW TO CLAIM:
+- Report crop loss within 72 hours of damage — this is mandatory
+- Report via: Crop Insurance App (available on Play Store), call insurance company, inform bank branch, or agriculture department
+- Get acknowledgment number after reporting — save it
+- District crop cutting experiments determine yield loss
+- Claim settled within 2 months [VERIFY] of harvest
+
+---
+
+CLAIM REJECTION REASONS TO AVOID:
+- Not reporting within 72 hours → claim rejected
+- Mobile number not updated → notification missed
+- Bank account not Aadhaar-linked → payment fails
+- Enrollment deadline missed → no coverage at all
+- Crop not notified in district that season → not covered
+
+---
+
+MAHARASHTRA SPECIFIC:
+- AIC (Agriculture Insurance Company) and private insurers handle Maharashtra
+- District-wise notified crop list changes every season — verify before sowing
+- Cotton in Vidarbha (Yavatmal, Amravati, Wardha): notified Kharif crop — verify annually
+- Soybean in Marathwada: notified Kharif crop — verify annually
+
+---
+
+DISTRESS LINKAGE:
+- Crop failure without PMFBY = no income to repay KCC = loan default risk
+- PMFBY claim can directly repay KCC outstanding at bank
+- Treat PMFBY enrollment as mandatory even if technically voluntary for non-loanee farmers
+- Farmers who opted out of PMFBY at KCC time face highest distress risk
+
+---
+
+HOW TO VERIFY ENROLLMENT:
+- pmfby.gov.in → Farmer Corner → Application Status
+- Visit bank branch with Aadhaar and ask for PMFBY policy document
+- Crop Insurance App → Check Policy
+
+---
+
+HELPLINE:
+- PMFBY Helpline: 1800-200-7710 [VERIFY]
+- Crop Insurance App: available on Google Play Store

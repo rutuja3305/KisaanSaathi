@@ -1,0 +1,82 @@
+SCHEME NAME: Namo Shetkari Maha Samman Nidhi Yojana
+SOURCE: https://mahadbt.maharashtra.gov.in
+LAST VERIFIED: June 2025
+VERSION: 2025-26
+
+---
+
+OBJECTIVE:
+Maharashtra state government's own farmer income support scheme — additional financial benefit on top of PM-KISAN to give farmers Rs. 12,000 per year total combined support.
+
+---
+
+BENEFIT:
+- Rs. 6,000 [VERIFY] per year from Maharashtra state government
+- Paid in 3 installments of Rs. 2,000 [VERIFY] each
+- Combined with PM-KISAN: farmer receives Rs. 12,000 [VERIFY] per year total
+- Paid via Direct Benefit Transfer (DBT) to Aadhaar-linked bank account
+- Both PM-KISAN and Namo Shetkari installments often transferred together
+
+---
+
+ELIGIBILITY:
+- All farmers eligible for PM-KISAN are automatically eligible
+- Must be registered under PM-KISAN first — Namo Shetkari uses same database
+- Land must be registered in farmer's name in Maharashtra land records
+- No separate income or land size restriction beyond PM-KISAN criteria
+
+---
+
+CRITICAL POINT:
+- Many eligible farmers are NOT receiving Namo Shetkari because their PM-KISAN registration has errors
+- Fixing PM-KISAN registration errors automatically fixes Namo Shetkari eligibility
+- If PM-KISAN is working but Namo Shetkari is not: check mahadbt.maharashtra.gov.in separately
+
+---
+
+DOCUMENTS REQUIRED:
+- Same as PM-KISAN: Aadhaar, 7/12 Utara, Aadhaar-linked bank account
+- No additional documents required if PM-KISAN is already active
+
+---
+
+HOW TO APPLY:
+- No separate application if already registered for PM-KISAN
+- New registrations: mahadbt.maharashtra.gov.in → Shetkari Yojana
+- CSC (Common Service Centre) for assisted registration
+- Talathi office for land record verification support
+
+---
+
+HOW TO CHECK STATUS:
+- mahadbt.maharashtra.gov.in → Beneficiary Status
+- Enter Aadhaar number or application number
+- If status shows "pending": land record issue or Aadhaar mismatch
+
+---
+
+COMMON ISSUES AND FIXES:
+- Not registered: visit CSC with Aadhaar and 7/12 to register
+- Registered but not receiving: check Aadhaar-bank linkage at bank branch
+- Name mismatch: correction at Talathi office
+- Land mutation not done: update Ferfar at Talathi office
+
+---
+
+DISTRESS LINKAGE:
+- Rs. 12,000 per year combined (PM-KISAN + Namo Shetkari) = significant regular income for small farmers
+- Many distressed farmers are missing this entirely due to registration errors
+- Recovering 2 years of missed payments = Rs. 24,000 potentially recoverable [VERIFY]
+- This amount can meaningfully offset short-term loan repayment gaps
+
+---
+
+SEASON TIMING:
+- Installments released same time as PM-KISAN (April-July, August-November, December-March)
+- Check both PM-KISAN and Namo Shetkari status simultaneously
+
+---
+
+HELPLINE:
+- Maharashtra Agriculture Department: 1800-233-4000 [VERIFY]
+- MahaDbt helpdesk: available on mahadbt.maharashtra.gov.in contact page [VERIFY]

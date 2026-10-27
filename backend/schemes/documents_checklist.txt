@@ -1,0 +1,164 @@
+SCHEME NAME: Documents Checklist for Maharashtra Farmer Schemes
+SOURCE: Compiled from pmkisan.gov.in, pmfby.gov.in, nabard.org, krishi.maharashtra.gov.in
+LAST VERIFIED: June 2025
+VERSION: 2025-26
+
+OBJECTIVE:
+Definitive checklist of documents required for each scheme and process. Farmers should keep these documents ready to avoid delays and rejection.
+
+CORE DOCUMENTS EVERY FARMER MUST HAVE (keep originals + 4 photocopies):
+
+7/12 Utara (Satbara Utara):
+- What it is: official land ownership and crop record document in Maharashtra
+- Issued by: Talathi office in your village/taluka
+- Where to get: Talathi office OR online at bhulekh.mahabhumi.gov.in
+- Must be: updated with your current name, current crop sown, and correct land area
+- Must NOT be: in deceased parent's name (file Ferfar/mutation first)
+- Cost: nominal fee online [VERIFY current fee]
+- Validity: get fresh copy within 3 months for bank or scheme applications
+
+Aadhaar Card:
+- Mandatory for all central and state government schemes
+- Must be: linked to your active bank account (DBT requirement)
+- Must be: linked to mobile number for OTP
+- If not linked to bank: visit bank branch with original Aadhaar
+- If mobile not linked: visit Aadhaar enrollment centre or post office
+
+Bank Passbook (first page):
+- Must show: account holder name matching Aadhaar exactly
+- Must show: IFSC code and account number clearly
+- Must be: active account (used in last 6 months)
+- Account must be: in farmer's name (not spouse's or child's for most schemes)
+- Account must be: Aadhaar-seeded (linked)
+
+Ration Card:
+- For family composition proof in some schemes
+- Green/Saffron/White ration card accepted
+- Alternative: family declaration certificate from Gram Panchayat
+
+Passport Size Photographs:
+- Keep minimum 6 recent photographs ready
+- Used for: KCC application, scheme registration, CSC processes
+
+DOCUMENTS BY SCHEME:
+
+PM-KISAN REGISTRATION:
+Required:
+- Aadhaar card (original + photocopy)
+- 7/12 Utara (must be in applicant's name)
+- Bank passbook (Aadhaar-seeded account)
+- Mobile number (for OTP and status updates)
+Optional but helpful:
+- Ration card (for family proof if name issues)
+Common rejection documents to fix first:
+- 7/12 with deceased parent's name: file Ferfar at Talathi
+- Aadhaar with old address: update at Aadhaar centre if causing mismatch
+
+NAMO SHETKARI REGISTRATION:
+- Same documents as PM-KISAN
+- PM-KISAN registration must be complete first
+- Additional: PM-KISAN registration number or beneficiary status printout
+
+PMFBY ENROLLMENT (NON-LOANEE FARMER):
+Required:
+- Aadhaar card
+- 7/12 Utara showing crop sown this season
+- Bank passbook
+- Sowing certificate (if required by insurance company for your crop/district) [VERIFY]
+- Crop name and area sown (must match 7/12)
+For tenant farmer / sharecropper:
+- Written tenancy agreement OR
+- Sowing certificate from Talathi OR
+- Declaration form provided by insurance company
+
+PMFBY CLAIM (after crop loss):
+Required:
+- Crop loss report acknowledgment number (from 72-hour reporting)
+- 7/12 Utara
+- Aadhaar card
+- Bank passbook
+- Crop failure certificate from Tahsildar (for post-harvest or total loss)
+- Photographs of crop damage with date (take these immediately after loss)
+- FIR copy if applicable (hailstorm damage with police report)
+
+KCC APPLICATION:
+Required:
+- Filled application form (from bank, available free)
+- Aadhaar card (identity + address proof)
+- 7/12 Utara (land ownership proof)
+- Passport size photographs (2)
+- Bank account details (if existing account at different bank)
+For new bank account:
+- Open savings account first, then apply for KCC
+For tenant farmer:
+- Written lease agreement OR joint declaration with landowner
+- JLG formation documents if applying as group
+
+KCC LOAN RESTRUCTURING:
+Required:
+- Crop failure certificate from Tahsildar (most important document)
+- KCC account statement (get from bank)
+- 7/12 Utara showing crop sown
+- Aadhaar card
+- Written application for restructuring (write yourself or get help at CSC)
+- Drought declaration notification copy (if district declared drought)
+
+GOPINATH MUNDE ACCIDENTAL DEATH CLAIM:
+Required:
+- Death certificate from Municipal Council or Gram Panchayat
+- Post mortem report from government hospital (mandatory)
+- FIR copy from police station (for road accident, drowning, assault)
+- 7/12 Utara (showing farmer status of deceased)
+- Aadhaar card of deceased
+- Aadhaar card of nominee/claimant
+- Bank account details of nominee (Aadhaar-seeded)
+- Proof of relationship: ration card OR birth certificate OR marriage certificate
+
+GOPINATH MUNDE DISABILITY CLAIM:
+Required:
+- Disability certificate from Civil Surgeon (government hospital) specifying type and percentage
+- Hospital discharge summary
+- FIR copy if applicable
+- 7/12 Utara
+- Aadhaar card
+- Bank account details
+
+DROUGHT COMPENSATION / INPUT SUBSIDY:
+No application needed in most cases (automatic)
+BUT to ensure your name is included:
+- Verify your name in village cultivation records with Talathi before survey
+- If name missing: submit written application to Talathi immediately with 7/12 Utara
+- Crop failure certificate: get it anyway for bank restructuring
+
+MSP PROCUREMENT REGISTRATION:
+Required:
+- Aadhaar card
+- Bank passbook (Aadhaar-seeded)
+- 7/12 Utara
+- Crop quantity estimate
+- Valid mobile number
+
+IMPORTANT DOCUMENT RULES:
+Name matching rule:
+- Name on Aadhaar, 7/12 Utara, and bank account must match exactly
+- Even small spelling differences cause rejection
+- Fix mismatches BEFORE applying: Talathi office for 7/12, bank for account name, Aadhaar centre for Aadhaar
+
+7/12 update after family member death:
+- File Ferfar (mutation) at Talathi office immediately after death of land-owning family member
+- Documents for Ferfar: death certificate, legal heir certificate, existing 7/12, Aadhaar of all heirs
+- Takes 30-90 days [VERIFY current processing time]
+- Without updated 7/12: cannot register for PM-KISAN, get KCC, or claim PMFBY
+
+Keeping documents safe:
+- Store originals in waterproof folder or container (important for Kharif season floods)
+- Keep scanned copies on phone or with trusted family member
+- DigiLocker (digilocker.gov.in): free government app to store digital copies of all documents
+
+WHERE TO GET DOCUMENTS IF MISSING:
+- 7/12 Utara: Talathi office or bhulekh.mahabhumi.gov.in
+- Birth/death certificate: Gram Panchayat or Municipal Council
+- Caste certificate: Tahsildar office
+- Income certificate: Tahsildar office
+- Disability certificate: Government Civil Hospital (Civil Surgeon)
+- Legal heir certificate: Tahsildar office

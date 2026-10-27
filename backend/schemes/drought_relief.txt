@@ -1,0 +1,96 @@
+SCHEME NAME: Maharashtra Drought Relief and Compensation Schemes
+SOURCE: https://ceodisastermanagement.maharashtra.gov.in / https://krishi.maharashtra.gov.in
+LAST VERIFIED: June 2025
+VERSION: Kharif 2025 / Rabi 2025-26
+
+OBJECTIVE:
+When drought is officially declared in Maharashtra districts, multiple relief measures are automatically activated for affected farmers.
+
+HOW DROUGHT IS DECLARED IN MAHARASHTRA:
+- State government assesses: rainfall deficit below 75% of normal AND crop loss above 33%
+- Taluka-level survey by agriculture and revenue officials
+- Tahsildar submits report to Collector
+- Collector recommends to state government
+- State cabinet approves drought declaration for specific talukas or districts
+- Central team visits for confirmation of severe drought (for NDRF funds)
+
+WHEN DROUGHT IS DECLARED — WHAT AUTOMATICALLY ACTIVATES:
+1. KCC loan repayment moratorium (automatic for all crop loans in declared area)
+2. Input subsidy disbursement begins
+3. Employment guarantee scheme (MNREGA) work intensified
+4. Water supply and fodder relief in affected talukas
+5. Free seed distribution for next season in severely affected areas [VERIFY]
+
+INPUT SUBSIDY (NDRF NORMS):
+Rainfed crop areas:
+- Crop loss 33% to 50%: Rs. 8,500 per hectare [VERIFY current NDRF norms]
+- Crop loss above 50%: Rs. 17,000 per hectare [VERIFY]
+- Maximum area covered: 2 hectares per farmer
+
+Irrigated crop areas:
+- Crop loss 33% to 50%: Rs. 17,000 per hectare [VERIFY]
+- Crop loss above 50%: Rs. 34,000 per hectare [VERIFY]
+- Maximum area covered: 2 hectares per farmer
+
+Horticulture and annual crop areas (rainfed):
+- Crop loss above 33%: Rs. 18,000 per hectare [VERIFY]
+- Maximum area covered: 2 hectares per farmer
+
+Note: SDRF (State Disaster Relief Fund) norms may provide additional amounts above NDRF [VERIFY Maharashtra SDRF rates]
+
+HOW COMPENSATION REACHES FARMER:
+- No separate application needed for input subsidy in drought-declared areas
+- Based on village-level crop cutting survey by agriculture department
+- Farmer's name must be in village records as cultivator
+- Payment via DBT directly to Aadhaar-linked bank account
+- Timeline: typically 2-4 months after declaration [VERIFY]
+
+FARMER ACTION WHEN DROUGHT DECLARED:
+1. Do NOT wait passively: verify your name is in village cultivation records
+2. Visit Talathi office: confirm your crop area and cultivation status is recorded correctly
+3. If name missing from records: file application at Talathi immediately
+4. Obtain crop failure certificate even if not required immediately (useful for bank restructuring)
+5. Apply for KCC moratorium at bank with drought declaration order reference
+6. Continue PMFBY claim process separately (drought compensation and PMFBY are independent)
+
+KHARIF 2025 DROUGHT RISK:
+Current monsoon 2025 status: [VERIFY from IMD — imd.gov.in at time of use]
+Districts historically at drought risk in Kharif: Marathwada 8 districts, Vidarbha (Yavatmal, Washim, Buldhana, Akola, Amravati, Wardha)
+Farmers in these districts should prepare crop failure certificate process before situation worsens
+
+RABI 2025-26 DROUGHT RISK:
+- Rabi drought risk: lower than Kharif but exists in Solapur, Osmanabad, Latur talukas
+- Irrigation dependency: Rabi crops need assured irrigation; dam storage levels critical
+- Check dam storage levels: waterresources.maharashtra.gov.in [VERIFY portal]
+
+EX-GRATIA FOR FARMER DEATHS:
+- When farmer dies due to suicide linked to crop failure or debt: Rs. 1,00,000 ex-gratia [VERIFY current amount and conditions]
+- Separate from Gopinath Munde accident insurance
+- Family must apply at Collector office with documentation
+- Criteria: confirmed farm distress link required [VERIFY eligibility criteria]
+
+MNREGA DROUGHT EMPLOYMENT:
+- In drought-declared areas: MNREGA work guaranteed within 5 km [VERIFY]
+- Rate: Rs. 273 per day in Maharashtra [VERIFY current MNREGA rate]
+- For farmers waiting for crop loss compensation: MNREGA provides immediate income
+- Apply at Gram Panchayat with job card
+
+FODDER RELIEF:
+- In severe drought: government fodder camps opened for livestock
+- Free or subsidized fodder provided
+- Livestock is asset collateral for many farmers: protecting livestock is critical
+- Village-level fodder distribution coordinated by Collectorate
+
+WATER SUPPLY RELIEF:
+- In declared drought talukas: tanker water supply to villages
+- Farmers can request water for cattle through Gram Panchayat
+
+DISTRICT COLLECTOR ROLE:
+- Key decision-maker for all drought relief at district level
+- Farmer grievances about relief: written application to Collector
+- Collector office: all districts have dedicated grievance desk for farmer relief
+
+PORTAL: ceodisastermanagement.maharashtra.gov.in
+IMD RAINFALL DATA: imd.gov.in (for current season drought monitoring)
+WATER STORAGE: waterresources.maharashtra.gov.in [VERIFY]
+HELPLINE: 1070 (State Disaster Management helpline) [VERIFY]

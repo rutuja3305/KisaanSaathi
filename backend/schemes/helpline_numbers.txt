@@ -1,0 +1,152 @@
+SCHEME NAME: Farmer Helpline Numbers and Portals — Maharashtra
+SOURCE: Compiled from official scheme portals and Maharashtra government websites
+LAST VERIFIED: June 2025
+VERSION: 2025-26
+
+OBJECTIVE:
+Single reference for all helpline numbers, portals, and apps that a farmer in Maharashtra can use for scheme information, complaints, and emergency support.
+
+CENTRAL GOVERNMENT HELPLINES:
+
+PM-KISAN Helpline:
+- Number: 155261 [VERIFY active]
+- Alternate: 011-24300606 [VERIFY]
+- Timings: Monday to Friday, 9 AM to 6 PM [VERIFY]
+- Use for: Registration issues, installment not received, status inquiry
+- Portal: pmkisan.gov.in
+
+Kisan Call Centre (KCC Helpline — not Kisan Credit Card):
+- Number: 1800-180-1551 (toll free) [VERIFY active]
+- Timings: 6 AM to 10 PM all days [VERIFY]
+- Languages: Hindi, Marathi, and other regional languages
+- Use for: Crop advisory, scheme information, pest management, KCC guidance
+- Operated by: Agriculture Ministry of India
+
+PMFBY (Crop Insurance) Helpline:
+- Number: 1800-200-7710 [VERIFY active]
+- Portal: pmfby.gov.in
+- Crop Insurance App: search "Crop Insurance" on Google Play Store
+- Use for: Enrollment queries, claim status, grievance filing
+- Also: pmfby.gov.in → Farmer Corner → File Grievance
+
+NAFED (MSP Procurement):
+- Portal: nafed.com [VERIFY]
+- Use for: Procurement centre locations, registration for MSP sale
+
+CCI (Cotton Corporation of India):
+- Portal: cotcorp.gov.in [VERIFY]
+- Use for: Cotton MSP procurement centre locations in Vidarbha and Marathwada
+- Important for cotton farmers in Yavatmal, Washim, Akola, Amravati
+
+National Farmers Helpline:
+- Number: 1800-180-1551 [VERIFY — may be same as Kisan Call Centre]
+
+NABARD:
+- Portal: nabard.org
+- Use for: KCC scheme information, JLG formation guidance, rural credit queries
+
+RBI Banking Ombudsman (for bank disputes):
+- Online: cms.rbi.org.in
+- Use for: Bank refusing restructuring, KCC disputes, unfair bank practices
+- Cost: Free
+
+MAHARASHTRA STATE HELPLINES:
+
+Maharashtra Farmer Helpline:
+- Number: 1800-233-4422 [VERIFY active and timings]
+- Use for: State scheme queries including Namo Shetkari, Gopinath Munde
+
+MahaBhoomi (Land Records):
+- Portal: bhulekh.mahabhumi.gov.in
+- Use for: Download 7/12 Utara online (free)
+- 7/12 downloaded here valid for most scheme applications
+
+MahaDbt (State Scheme Portal):
+- Portal: mahadbt.maharashtra.gov.in
+- Use for: Namo Shetkari status, state scheme application tracking
+- All Maharashtra DBT schemes consolidated here
+
+Maharashtra Agriculture Department:
+- Portal: krishi.maharashtra.gov.in
+- Use for: Scheme notifications, district agriculture office contacts, scheme guidelines
+
+Maharashtra Disaster Management:
+- Portal: ceodisastermanagement.maharashtra.gov.in
+- Number: 1070 [VERIFY]
+- Use for: Drought declaration status, disaster relief information
+
+Maharashtra Water Resources:
+- Portal: waterresources.maharashtra.gov.in [VERIFY]
+- Use for: Dam storage levels (critical for Rabi irrigation planning)
+
+APMC Market Prices:
+- Portal: msamb.com [VERIFY]
+- National prices: agmarknet.gov.in
+- Use for: Daily APMC market prices before selling produce
+
+EMERGENCY AND SUPPORT:
+
+Farmer Distress Helpline Maharashtra:
+- iCall (mental health and distress): 9152987821 [VERIFY active]
+- Use for: Farmer facing severe distress, suicidal thoughts, emotional crisis
+
+PM-KISAN Status Check (self-service):
+- SMS: Send PMKISAN to 56655 [VERIFY SMS service active]
+- Portal: pmkisan.gov.in → Beneficiary Status
+
+USEFUL APPS (Google Play Store):
+
+Crop Insurance App:
+- Name: Fasal Bima (PMFBY official app) [VERIFY app name]
+- Use for: Report crop loss within 72 hours, claim status, enrollment
+- Most important app for any farmer with PMFBY
+
+mKisan:
+- Government of India official farmer app
+- Use for: Crop advisory, scheme information, weather alerts
+
+PM-KISAN Mobile App:
+- Check installment status directly on phone
+- Aadhaar or mobile number login
+
+MahaMobile / MahaOnline:
+- Maharashtra government services on mobile [VERIFY app name]
+
+AGMARKNET:
+- Daily prices from all APMC markets across India
+- Essential before selling any produce
+
+DigiLocker:
+- digilocker.gov.in or DigiLocker app
+- Store all documents digitally: Aadhaar, 7/12 (via Mahabhumi), marksheets
+- Accepted as valid proof at most government offices
+
+DISTRICT AGRICULTURE OFFICE CONTACTS:
+[Each district has its own number — these must be looked up district-wise]
+Primary source: krishi.maharashtra.gov.in → Contact Us → District offices
+Key districts for high-risk farmers:
+- Yavatmal DAO: [VERIFY from krishi.maharashtra.gov.in]
+- Washim DAO: [VERIFY]
+- Beed DAO: [VERIFY]
+- Osmanabad DAO: [VERIFY]
+- Latur DAO: [VERIFY]
+- Aurangabad DAO: [VERIFY]
+
+HOW TO FILE ONLINE GRIEVANCE:
+
+PM-KISAN grievance:
+- pmkisan.gov.in → Help Desk → Beneficiary complaint form
+
+PMFBY grievance:
+- pmfby.gov.in → Farmer Corner → Grievance
+- Also: agricoop.nic.in grievance portal
+
+Banking grievance:
+- cms.rbi.org.in (Banking Ombudsman) — most effective for bank disputes
+
+Maharashtra state scheme grievance:
+- pgrs.mahaonline.gov.in (Maharashtra public grievance portal) [VERIFY]
+- Aapale Sarkar portal: aaplesarkar.mahaonline.gov.in [VERIFY]
+
+IMPORTANT NOTE ON HELPLINE NUMBERS:
+All numbers marked [VERIFY] must be confirmed before the app goes live or before telling farmers to call them. Helpline numbers in India change, get discontinued, or have changed timings. Verify each from the official portal at time of use. The District Agriculture Office in each district is always a reliable fallback contact.

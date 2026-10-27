@@ -1,0 +1,134 @@
+SCHEME NAME: Minimum Support Price (MSP) for Major Crops — Maharashtra
+SOURCE: https://dfpd.gov.in / https://agricoop.nic.in / CACP (Commission for Agricultural Costs and Prices)
+LAST VERIFIED: June 2025
+VERSION: Kharif 2025 / Rabi 2025-26
+
+OBJECTIVE:
+MSP is the minimum price guaranteed by the Central Government for notified crops. Farmers should never sell below MSP. If market price falls below MSP, government agencies procure at MSP.
+
+WHAT MSP MEANS FOR FARMER:
+- Government guaranteed floor price for your crop
+- If open market price falls below MSP: sell to government procurement agency
+- Selling below MSP to private trader: report to district supply office
+- MSP does not mean government will always buy: procurement depends on state scheme and storage availability
+
+KHARIF 2025 MSP (Central Government Announced):
+Cotton:
+- Medium staple (F-414, H-777, H-4): Rs. 7,121 per quintal [VERIFY — 2025-26 CACP announcement]
+- Long staple (V-797, Shankar-6): Rs. 7,521 per quintal [VERIFY]
+
+Soybean (Yellow):
+- Rs. 4,892 per quintal [VERIFY 2025-26]
+
+Tur (Arhar / Pigeon Pea):
+- Rs. 7,550 per quintal [VERIFY 2025-26]
+
+Moong (Green Gram):
+- Rs. 8,682 per quintal [VERIFY 2025-26]
+
+Udid (Black Gram):
+- Rs. 7,400 per quintal [VERIFY 2025-26]
+
+Maize:
+- Rs. 2,225 per quintal [VERIFY 2025-26]
+
+Jowar (Hybrid):
+- Rs. 3,421 per quintal [VERIFY 2025-26]
+
+Bajra:
+- Rs. 2,625 per quintal [VERIFY 2025-26]
+
+Paddy (Common):
+- Rs. 2,300 per quintal [VERIFY 2025-26]
+
+Paddy (Grade A):
+- Rs. 2,320 per quintal [VERIFY 2025-26]
+
+Groundnut (in shell):
+- Rs. 6,783 per quintal [VERIFY 2025-26]
+
+Sunflower seed:
+- Rs. 7,280 per quintal [VERIFY 2025-26]
+
+RABI 2025-26 MSP:
+Wheat:
+- Rs. 2,425 per quintal [VERIFY — announced before Rabi sowing season]
+
+Gram (Chana):
+- Rs. 5,650 per quintal [VERIFY 2025-26]
+
+Rabi Jowar:
+- Rs. 3,421 per quintal [VERIFY 2025-26]
+
+Mustard (Rapeseed):
+- Rs. 5,950 per quintal [VERIFY 2025-26]
+
+Safflower:
+- Rs. 5,800 per quintal [VERIFY 2025-26]
+
+Lentil (Masur):
+- Rs. 6,700 per quintal [VERIFY 2025-26]
+
+WHERE TO SELL AT MSP IN MAHARASHTRA:
+
+For Cotton:
+- CCI (Cotton Corporation of India): procurement centres in Vidarbha and Marathwada
+- Contact: cotcorp.gov.in [VERIFY active procurement centres for 2025]
+- Nearest CCI centre: check at District Supply Office or District Agriculture Office
+
+For Soybean, Tur, Moong, Udid:
+- NAFED (National Agricultural Cooperative Marketing Federation) procurement [VERIFY active in Maharashtra 2025]
+- State government procurement through Maharashtra State Agricultural Marketing Board (MSAMB)
+- APMC (Agricultural Produce Market Committee) yards: check if MSP procurement window is open
+
+For Paddy:
+- FCI (Food Corporation of India) procurement centres
+- State government procurement through civil supplies corporation
+
+For Wheat:
+- FCI procurement in Maharashtra (limited compared to Punjab/Haryana)
+- Check availability at District Supply Office
+
+HOW MSP PROCUREMENT WORKS:
+1. Farmer registers at APMC yard or procurement centre with: Aadhaar, bank account, land records
+2. Brings crop meeting quality and moisture norms
+3. Crop weighed and quality checked at centre
+4. Payment within 48-72 hours to Aadhaar-linked bank account [VERIFY current timeline]
+5. Farmer gets digital receipt
+
+QUALITY NORMS FOR MSP PROCUREMENT:
+- Moisture content: cotton 8-12% [VERIFY], soybean 12% max [VERIFY], wheat 12% max [VERIFY]
+- Clean and free from foreign matter, pest damage, damaged grains above permissible limit
+- Grading done at procurement centre
+- Below quality rejected or bought at discount: know norms before arriving
+
+WHEN MARKET PRICE IS BELOW MSP — WHAT TO DO:
+1. First check if official MSP procurement is open in your district
+2. If open: take crop to procurement centre with documents
+3. If not open: hold crop if storage available
+4. Contact District Supply Officer in writing about below-MSP market rates
+5. Contact APMC secretary about activating price support
+6. File complaint at krishi.maharashtra.gov.in if no action taken
+
+PRICE MONITORING:
+- Check daily APMC market prices: agmarknet.gov.in (national) [VERIFY]
+- Maharashtra prices: msamb.com [VERIFY portal]
+- Compare market price with MSP before selling
+
+ONION AND TOMATO SPECIAL NOTE:
+- Onion and Tomato are NOT under MSP
+- Price crash is common: no government price guarantee
+- NOPCO (National Cooperative Exports) and NAFED can procure onion in crash situations [VERIFY active status]
+- Tomato: no procurement mechanism, highly volatile
+
+COTTON PRICE ALERT FOR KHARIF 2025:
+- International cotton prices affecting domestic prices [VERIFY current global cotton market]
+- CCI procurement is the primary safety net for cotton farmers
+- Cotton farmers in Vidarbha and Marathwada: do NOT sell below MSP without checking CCI procurement status
+- MSP awareness is critical: many farmers sell early in panic at below-MSP price
+
+PORTAL: agmarknet.gov.in (price monitoring)
+CACP: cacp.dacfw.nic.in (official MSP announcements)
+CCI: cotcorp.gov.in (cotton procurement)
+NAFED: nafed.com (pulses and oilseeds)
+MSAMB: msamb.com (Maharashtra market info)

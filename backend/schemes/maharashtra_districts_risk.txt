@@ -1,0 +1,91 @@
+SCHEME NAME: Maharashtra District-wise Agricultural Risk Classification
+SOURCE: https://ceodisastermanagement.maharashtra.gov.in / Maharashtra Agriculture Department
+LAST VERIFIED: June 2025
+VERSION: Kharif 2025 / Rabi 2025-26
+
+OBJECTIVE:
+Classify Maharashtra districts by agricultural distress risk level based on historical drought frequency, rainfall patterns, crop dependency, and farmer distress data.
+
+HIGH RISK ZONE — MARATHWADA (8 districts):
+Districts: Aurangabad (Chhatrapati Sambhajinagar), Latur, Osmanabad (Dharashiv), Nanded, Beed, Hingoli, Parbhani, Jalna
+Risk factors:
+- Rainfall: 600 to 800 mm annually, highly irregular [VERIFY]
+- Drought declared in 4 out of last 10 years in most districts [VERIFY]
+- Primary crops: Cotton, Soybean, Tur — all rain-dependent
+- Groundwater depletion: severe in Beed, Osmanabad, Aurangabad
+- Farmer distress incidents: highest concentration in Maharashtra [VERIFY NCRB data]
+- KCC default rate: above state average [VERIFY]
+Specific risk notes:
+- Beed: cotton + onion, both price-volatile crops
+- Osmanabad: soybean dominant, late monsoon common
+- Latur: Rabi sorghum dependent, dam water scarcity
+Active support: PMFBY compulsory for notified crops, drought relief when declared
+
+HIGH RISK ZONE — VIDARBHA (11 districts):
+Districts: Yavatmal, Washim, Buldhana, Amravati, Wardha, Akola, Nagpur, Chandrapur, Gadchiroli, Gondia, Bhandara
+Risk factors:
+- Yavatmal, Washim, Buldhana: extreme cotton distress zone
+- Cotton input cost highest in state: Rs. 35,000 to Rs. 55,000 per acre [VERIFY]
+- Bt cotton pink bollworm resistance increasing since 2018
+- Rainfall: 700 to 1100 mm but irregular distribution
+- Chandrapur, Gadchiroli: tribal farmer concentration, lower scheme awareness
+- Nagpur: orange horticulture belt, separate risk profile
+Specific risk notes:
+- Yavatmal: highest pesticide-related farmer incidents in India historically [VERIFY]
+- Wardha: Gandhian cotton belt, organic farming movement
+- Gondia, Bhandara: paddy cultivation, waterlogging risk
+Active support: PMFBY, Vasantrao Naik Shetkari Swavalamban Mission active in Vidarbha
+
+MEDIUM RISK ZONE — NORTH MAHARASHTRA (4 districts):
+Districts: Nashik, Ahmednagar, Dhule, Jalgaon, Nandurbar
+Risk factors:
+- Nashik: onion capital — price crash risk even in good harvest year
+- Ahmednagar: sugarcane + drought-prone talukas mixed
+- Dhule, Nandurbar: tribal areas, low irrigation coverage
+- Jalgaon: banana belt, irrigation dependent
+Specific risk notes:
+- Onion price crash in Nashik: farmer gets Rs. 1-2 per kg when wholesale crashes [VERIFY current prices]
+- Nandurbar: adivasi farmer zone, special tribal schemes applicable
+
+MEDIUM RISK ZONE — PUNE DIVISION (5 districts):
+Districts: Pune, Solapur, Satara, Sangli, Kolhapur
+Risk factors:
+- Solapur: drought-prone eastern talukas, moderate risk
+- Satara: mixed irrigation, moderate stability
+- Sangli: sugarcane dominant, better irrigation
+- Kolhapur: highest irrigation coverage in Maharashtra, lower risk
+- Pune: mixed — eastern talukas drought-prone, western talukas better
+Specific risk notes:
+- Solapur: grape and pomegranate in some areas, horticulture insurance important
+- Kolhapur: cooperative sugar mills strong, relatively stable farmer income
+
+LOW RISK ZONE — KONKAN (5 districts):
+Districts: Ratnagiri, Sindhudurg, Raigad, Thane (rural), Palghar
+Risk factors:
+- Highest rainfall in Maharashtra: 2500 to 4000 mm annually [VERIFY]
+- Primary crops: Rice (paddy), Coconut, Mango, Cashew
+- Smaller land holdings but stable income
+- Main risk: post-harvest losses, price for mango and cashew
+Specific risk notes:
+- Ratnagiri, Sindhudurg: Alphonso mango belt, horticulture PMFBY important
+- Paddy cultivation: waterlogging risk in heavy rain years
+
+DROUGHT DECLARATION HISTORY (last 5 years):
+[VERIFY specific years from ceodisastermanagement.maharashtra.gov.in]
+- Marathwada: drought declared in multiple years recently
+- Vidarbha: partial drought in several districts
+- When drought declared: automatic KCC moratorium + input subsidy activated
+
+DISTRICT RISK QUICK REFERENCE:
+CRITICAL distress zone: Yavatmal, Washim, Beed, Osmanabad, Latur
+HIGH distress zone: Buldhana, Amravati, Wardha, Akola, Hingoli, Parbhani, Jalna, Nanded, Aurangabad
+MEDIUM risk: Nashik, Ahmednagar, Solapur, Dhule, Nandurbar, Pune (eastern talukas)
+LOWER risk: Kolhapur, Sangli, Satara, Ratnagiri, Sindhudurg, Gondia, Bhandara, Nagpur
+
+TRIBAL FARMER SPECIAL CONSIDERATION:
+Districts with significant tribal (adivasi) farmer population: Nandurbar, Palghar, Gadchiroli, Nashik (parts)
+Additional schemes applicable: Tribal Sub-Plan, ST-specific KCC norms, forest rights land eligibility
+[VERIFY applicable tribal agriculture schemes from tribal development department]
+
+PORTAL: ceodisastermanagement.maharashtra.gov.in
+MAHADES (data portal): mahades.maharashtra.gov.in
